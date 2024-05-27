@@ -1,0 +1,3 @@
+class InMemoryData{
+    static value;
+}
